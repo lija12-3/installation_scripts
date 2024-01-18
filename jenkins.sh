@@ -2,7 +2,7 @@
 
 sudo apt update -y
 
-sudo apt install default-jre -y
+ apt install fontconfig openjdk-17-jre
 
 java -version
 
